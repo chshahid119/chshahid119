@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chshahid119
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working as Front-end web developer
-- 💞️ I’m looking to collaborate on Web Projects
+- 💞️ I’m looking to collaborate on different StartUps and Web Based Projects
 - 📫 You can Contact me through my email: shahidchaudhary0729@gmail.com
 
 <!---
